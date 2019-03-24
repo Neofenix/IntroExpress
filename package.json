@@ -1,0 +1,23 @@
+{
+  "name": "introexpress",
+  "version": "1.0.0",
+  "description": "Abrir una consola y situarse en la carpeta 'Primera entregra'",
+  "main": "curso.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neofenix/IntroExpress.git"
+  },
+  "author": "Juan Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neofenix/IntroExpress/issues"
+  },
+  "homepage": "https://github.com/Neofenix/IntroExpress#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  }
+}
